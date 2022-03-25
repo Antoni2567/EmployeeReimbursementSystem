@@ -48,4 +48,4 @@ After you install it file open and run it in your favorite IDE and then from the
 
 License
 
-This project uses the following license: Mit license.
+This project uses the following license: [MIT license](LICENSE).
