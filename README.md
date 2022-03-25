@@ -44,7 +44,7 @@ Download a zip of the file and then open it in your preference of IDE
 
 Usage
 
-After you install it file open and run it in your favorite IDE and then from the link that your IDE will give you use that to access the webpage from there.
+After you install it open the file and run it in your favorite IDE and then from the link that your IDE will give you use that to access the webpage from there.
 
 License
 
