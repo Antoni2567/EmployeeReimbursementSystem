@@ -1,7 +1,7 @@
 Employee Reimbursement System
 Project Description
+It manages the process of reimbursing employees for expenses incurred while on company time. All employees in the company can login and submit requests for reimbursement and view their past tickets and pending requests. Finance managers can log in and view all reimbursement requests and history for all employees in the company. Finance managers are authorized to approve and deny requests for expense reimbursement. 
 
-Here goes your awesome project description!
 Technologies Used
 
   Intelij
@@ -44,7 +44,7 @@ Download a zip of the file and then open it in your preference of IDE
 
 Usage
 
-After you install the file open and run it in your favorite IDE and then from the link that your IDE will give you use that to access the webpage from there.
+After you install it file open and run it in your favorite IDE and then from the link that your IDE will give you use that to access the webpage from there.
 
 License
 
